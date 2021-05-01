@@ -58,6 +58,12 @@
     "tmdb_country_code_2": "pt",
     "name": "Brazil"
   },
+  "tr": {
+    "justwatch_country_code": "tr_TR",
+    "tmdb_country_code": "tr-TR",
+    "tmdb_country_code_2": "tr",
+    "name": "Turkey"
+  },
   "ar": {
     "justwatch_country_code": "es_AR",
     "tmdb_country_code": "es-AR",
